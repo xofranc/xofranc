@@ -16,7 +16,6 @@
 <div align="center">
     <h2 align="center">Used Technologies</h2>
     <div align="center">
-        
         <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="80">
         <img> src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" width="80>
     </div>
