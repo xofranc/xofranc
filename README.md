@@ -18,11 +18,13 @@
     <div align="center">
         <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="80">
         <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" width="80">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="80">
     </div>
     <h2 align="center">Used IDE's</h2>
     <div align="center">
         <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" alt="Intellij" width="80">
         <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VsCode" width="80">
+        
     </div>
 </div>
 <hr>
