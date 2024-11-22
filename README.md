@@ -28,7 +28,8 @@
 <hr>
 <footer align="center">
     <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=francojimenezcopati&include_all_commits=true&show_icons=true&theme=radical" height="250">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=francojimenezcopati&layout=compact&hide=css&theme=radical" alt="Intellij" height="250">
+        <img src="https://github-readme-stats.vercel.app/api?username=cofranc&include_all_commits=true&show_icons=true&theme=radical" height="250">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xofranc&layout=compact&hide=css&theme=radical" alt="Intellij" height="250">
+        
     </p>
 </footer>
