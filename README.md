@@ -7,8 +7,8 @@
             <li>🔭 I'm currently figuring out what to specialize in</li>
             <li>👨‍🎓 I'm learning Django at the moment</li>
             <li>💬 Ask me about anything you want</li>
-            <li>📫 How to reach me: fjcopati@gmail.com</li>
-            <li>💼 I had a 4-month internship at the company GIRE S.A.</li>
+            <li>📫 How to reach me: santiagop200101@gmail.com</li>
+            <li>💼 I am currently a student. </li>
         </ul>
     </h3>
 </header>
